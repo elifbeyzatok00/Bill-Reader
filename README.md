@@ -2,6 +2,9 @@
 
 Bu proje, Donut (Document Understanding Transformer) modelini kullanarak fatura ve invoice belgelerinden otomatik bilgi çıkarımı yapan bir AI uygulamasıdır. Fine-tune edilmiş Donut modeli sayesinde fatura resimlerinden JSON formatında yapılandırılmış veri elde edebilirsiniz.
 
+![Gradio UI Image](https://raw.githubusercontent.com/elifbeyzatok00/Bill-Reader2/refs/heads/main/Gradio%20UI%20Image.png)
+(Gradio UI Image)
+
 ## 🎯 Proje Amacı
 
 Bu uygulama, fatura işleme süreçlerini otomatikleştirmek için geliştirilmiştir. Kullanıcılar fatura resimlerini yükleyerek şu bilgileri otomatik olarak çıkarabilir:
@@ -282,3 +285,4 @@ WANDB_API_KEY=your_wandb_key_here     # Weights & Biases API anahtarı (isteğe 
 - [Donut Paper](https://arxiv.org/abs/2111.15664)
 - [Transformers Dokümantasyonu](https://huggingface.co/docs/transformers/)
 - [Gradio Dokümantasyonu](https://gradio.app/docs/)
+
