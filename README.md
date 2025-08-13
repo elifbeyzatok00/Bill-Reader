@@ -266,13 +266,6 @@ WANDB_API_KEY=your_wandb_key_here     # Weights & Biases API anahtarı (isteğe 
    - Hugging Face token'ınızı doğrulayın
    - Modelin erişilebilir olduğundan emin olun
 
-## 📊 Performans
-
-- **Doğruluk Oranı**: Model validation setinde %95+ doğruluk
-- **İşlem Süresi**: Ortalama 2-5 saniye (GPU'da)
-- **Desteklenen Formatlar**: PNG, JPG, JPEG
-- **Maksimum Görüntü Boyutu**: 640x480 piksel (önerilen)
-
 ## 🤝 Katkıda Bulunma
 
 1. Bu depoyu fork edin
@@ -283,7 +276,9 @@ WANDB_API_KEY=your_wandb_key_here     # Weights & Biases API anahtarı (isteğe 
 
 ## 🔗 Faydalı Bağlantılar
 
-- [Hugging Face Model Sayfası](https://huggingface.co/elifbeyza/donut-base-invoices-donut-data-v1)
+- [Hugging Face Fine Tuned Donut Model Sayfası](https://huggingface.co/elifbeyza/donut-base-invoices-donut-data-v1)
+- [Hugging Face Donut Model Sayfası](https://huggingface.co/naver-clova-ix/donut-base)
+- [Hugging Face Veri Seti Sayfası](https://huggingface.co/datasets/katanaml-org/invoices-donut-data-v1/viewer/default/train?row=0&views%5B%5D=train)
 - [Donut Paper](https://arxiv.org/abs/2111.15664)
 - [Transformers Dokümantasyonu](https://huggingface.co/docs/transformers/)
 - [Gradio Dokümantasyonu](https://gradio.app/docs/)
